@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ba01f3b-26ea-479a-93c0-c6d460f7d819": {
+      "ProjectGuid": "9ba01f3b-26ea-479a-93c0-c6d460f7d819",
+      "DisplayName": "TestMinimalAPI",
+      "ColorIndex": 0
+    },
+    "32a6fda5-e0f6-46cb-9bf9-dc0ae0f3cce4": {
+      "ProjectGuid": "32a6fda5-e0f6-46cb-9bf9-dc0ae0f3cce4",
+      "DisplayName": "UserDB",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
