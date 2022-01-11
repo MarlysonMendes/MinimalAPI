@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4EbhnVlSbAor4kS1P43DXkYyMvQC1vrVEpOYDwvcPnI=",
+  "Source": "TestMinimalAPI",
+  "BasePath": "_content/TestMinimalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

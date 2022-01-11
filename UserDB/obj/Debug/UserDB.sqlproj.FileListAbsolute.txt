@@ -1,0 +1,10 @@
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\bin\Debug\UserDB.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\bin\Debug\UserDB.pdb
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\obj\Debug\Model.xml
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\obj\Debug\refactor.xml
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\obj\Debug\postdeploy.sql
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\obj\Debug\predeploy.sql
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\obj\Debug\UserDB.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\UserDB\obj\Debug\UserDB.pdb
