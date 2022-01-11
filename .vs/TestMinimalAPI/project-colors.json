@@ -10,7 +10,22 @@
       "ProjectGuid": "32a6fda5-e0f6-46cb-9bf9-dc0ae0f3cce4",
       "DisplayName": "UserDB",
       "ColorIndex": 1
+    },
+    "892bd108-14f9-4355-be72-42ff4f3747dd": {
+      "ProjectGuid": "892bd108-14f9-4355-be72-42ff4f3747dd",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "69132545-029b-423e-89a1-7ad21db520c3": {
+      "ProjectGuid": "69132545-029b-423e-89a1-7ad21db520c3",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 3
+    },
+    "cda10258-346a-432a-861a-7f6c478dee6a": {
+      "ProjectGuid": "cda10258-346a-432a-861a-7f6c478dee6a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }
