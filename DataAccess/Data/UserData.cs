@@ -30,7 +30,7 @@ namespace DataAccess.Data
         }
 
         public Task InsertUser(UserModel user) =>
-            _db.SaveData(storedProcedure: "dbo.spUser_Inset", new { user.FirsName, user.LastName });
+            _db.SaveData(storedProcedure: "dbo.spUser_Insert", new { user.FirstName, user.LastName });
 
         public Task UpdateUser(UserModel user) =>
              _db.SaveData(storedProcedure: "dbo.spUser_Update", user);

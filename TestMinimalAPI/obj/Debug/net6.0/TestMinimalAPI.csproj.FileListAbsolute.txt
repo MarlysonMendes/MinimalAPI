@@ -15,7 +15,6 @@ C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\TestMinimalAPI.AssemblyInfoInputs.cache
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\TestMinimalAPI.AssemblyInfo.cs
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\TestMinimalAPI.csproj.CoreCompileInputs.cache
-C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\TestMinimalAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\TestMinimalAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\staticwebassets.development.json
@@ -25,3 +24,12 @@ C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\ref\TestMinimalAPI.dll
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\TestMinimalAPI.pdb
 C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\obj\Debug\net6.0\TestMinimalAPI.genruntimeconfig.cache
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\marly\Desktop\Projetos .NET\TestMinimalAPI\TestMinimalAPI\bin\Debug\net6.0\DataAccess.pdb

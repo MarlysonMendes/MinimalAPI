@@ -25,7 +25,7 @@ namespace DataAccess.DbAccess
             U parameters,
             string connectionId = "Default")
         {
-            using IDbConnection connection = new SqlConnection(_config.GetConnectionString(connectionId);
+            using IDbConnection connection = new SqlConnection(_config.GetConnectionString(connectionId));
             return await connection.QueryAsync<T>(storedProcedure, parameters,
                 commandType: CommandType.StoredProcedure);
         }
