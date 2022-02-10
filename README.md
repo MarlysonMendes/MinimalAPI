@@ -32,7 +32,7 @@
  </ul>
  
  <h3 name="Demostração"> Demostração</h3>
-  <img alt=""  src="./assets/banner.png" />
+  <img alt=""  src="./assets/DemostracaoReadME.gif" />
   
   <h3 name="Pre-requisitos" >Pré-requisitos</h3>
   <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
