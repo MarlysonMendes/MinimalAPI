@@ -12,9 +12,9 @@
  <a href="#Features">Features</a> •
  <a href="#Demostração">Demostração  </a> • 
  <a href="#Pre-requisitos">Pré-requisitos</a> • 
- <a href="#contribuicao">Contribuição  </a> • 
- <a href="#licenc-a">Licença  </a> • 
- <a href="#autor">Autor  </a>
+ <a href="#Tecnogias">Tecnogias Usadas  </a> • 
+ <a href="#licenca">Licença  </a> • 
+ <a href="#conclusao">Conclusão  </a>
 </p>
 <h3 align="center"> 
  Status:	Finalizado
@@ -48,10 +48,10 @@
  <li><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL Server 2019 </a></li>
  </ul>
  
- <h3> Licença </h3>
+ <h3 name="licenca"> Licença </h3>
  <p>Esse repositório está licenciado pela MIT LICENSE. Para mais informações detalhadas, leia o arquivo <a href="https://github.com/MarlysonMendes/TestMinimalAPI/blob/main/LICENSE">LICENSE</a> contido nesse repositório.</p>
  
- <h3> Conclusão </h3>
+ <h3 name = "conclusao"> Conclusão </h3>
  <p>A minimal APi é um recurso muito interesante, pois simplifica muito o processo de criação de uma API muito interesante em projetos pequenos e simples</p>
  
  
